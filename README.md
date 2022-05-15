@@ -1,5 +1,5 @@
 # know-me
-This repository is to get to know Git and Github.
+This repository is for getting to know Git and Github.
 
 ## Intsructions 
 - Fork and clone this repository.
